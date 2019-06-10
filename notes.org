@@ -26,7 +26,7 @@ https://ru.aliexpress.com/
 - https://www.britannica.com/
 ** Hour of Code
 http://cssgridgarden.com/
-*** COMMENT 
+*** Курс 2
 https://studio.code.org/s/course2
 * COMMENT Лексика
 - order
