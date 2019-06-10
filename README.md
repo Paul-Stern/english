@@ -1,24 +1,21 @@
-- [Ссылки](#orgdc626b4)
-  - [Словари](#org368d2b1)
-  - [Переводчики](#orgdd76ce4)
-  - [Магазины](#orgdd3e551)
-    - [Без поддержки русского языка](#orgca9f40c)
-    - [С поддержкой русского языка](#org72f5f40)
-- [Грамматика](#org5343339)
-  - [Глагол](#orgddd8d6a)
-  - [Существительное](#orgceb463e)
-  - [Местоимение](#orgfba99e1)
-  - [Прилагательное](#orgddce845)
-  - [Наречие](#org0e7bf05)
-- [Навыки](#orgce2398e)
+- [Ссылки](#org1ff2737)
+  - [Словари](#org988aba6)
+  - [Переводчики](#org9e8f1d3)
+  - [Магазины](#orgb8dab64)
+    - [Без поддержки русского языка](#org2ded886)
+    - [С частичной поддержкой русского языка](#org00a3a53)
+    - [С поддержкой русского языка](#org09461a8)
+  - [Энциклопедии](#orge6832bb)
+  - [Hour of Code](#orgc25e16f)
 
 
-<a id="orgdc626b4"></a>
+
+<a id="org1ff2737"></a>
 
 # Ссылки
 
 
-<a id="org368d2b1"></a>
+<a id="org988aba6"></a>
 
 ## Словари
 
@@ -27,7 +24,7 @@
 -   <https://www.lingvolive.com/ru-ru>
 
 
-<a id="orgdd76ce4"></a>
+<a id="org9e8f1d3"></a>
 
 ## Переводчики
 
@@ -35,21 +32,29 @@
 -   <https://translate.google.com/>
 
 
-<a id="orgdd3e551"></a>
+<a id="orgb8dab64"></a>
 
 ## Магазины
 
 
-<a id="orgca9f40c"></a>
+<a id="org2ded886"></a>
 
 ### Без поддержки русского языка
 
 -   <https://www.amazon.com/>
 -   <https://www.gearbest.com/>
 -   <https://www.walmart.com/>
+-   <https://www.newegg.com/>
 
 
-<a id="org72f5f40"></a>
+<a id="org00a3a53"></a>
+
+### С частичной поддержкой русского языка
+
+<https://ru.aliexpress.com/>
+
+
+<a id="org09461a8"></a>
 
 ### С поддержкой русского языка
 
@@ -57,42 +62,17 @@
 -   <https://www.asos.com/ru/men/>
 
 
-<a id="org5343339"></a>
+<a id="orge6832bb"></a>
 
-# Грамматика
+## Энциклопедии
 
-
-<a id="orgddd8d6a"></a>
-
-## Глагол
-
-
-<a id="orgceb463e"></a>
-
-## Существительное
+-   <https://www.wikipedia.org/>
+-   <https://bigenc.ru/>
+-   <https://www.britannica.com/>
 
 
-<a id="orgfba99e1"></a>
+<a id="orgc25e16f"></a>
 
-## Местоимение
+## Hour of Code
 
-
-<a id="orgddce845"></a>
-
-## Прилагательное
-
-
-<a id="org0e7bf05"></a>
-
-## Наречие
-
-
-<a id="orgce2398e"></a>
-
-# Навыки
-
--   Заполнение адреса
--   Составление писем
-    -   Одежда не того размера
-    -   Не та вещь
-    -   Не хватает вещи в посылке
+<http://cssgridgarden.com/>

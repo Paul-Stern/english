@@ -1,0 +1,50 @@
+#+EXPORT_FILE_NAME: README.md
+* Ссылки
+
+** Словари
+- [[https://en.oxforddictionaries.com/]]
+- [[https://www.merriam-webster.com/]]
+- [[https://www.lingvolive.com/ru-ru]]
+
+** Переводчики
+- https://translate.yandex.com/
+- https://translate.google.com/
+** Магазины
+*** Без поддержки русского языка
+- https://www.amazon.com/
+- https://www.gearbest.com/
+- https://www.walmart.com/
+- https://www.newegg.com/
+*** С частичной поддержкой русского языка
+https://ru.aliexpress.com/
+*** С поддержкой русского языка
+- https://www.ebay.com/
+- https://www.asos.com/ru/men/
+** Энциклопедии
+- https://www.wikipedia.org/
+- https://bigenc.ru/
+- https://www.britannica.com/
+** Hour of Code
+http://cssgridgarden.com/
+*** COMMENT 
+https://studio.code.org/s/course2
+* COMMENT Лексика
+- order
+- shop
+- smartphone
+- link
+- комплектующие ПК
+  - 
+  - 
+* COMMENT Грамматика
+** Глагол
+** Существительное
+** Местоимение
+** Прилагательное
+** Наречие
+* COMMENT Навыки
+- Заполнение адреса
+- Составление писем
+  - Одежда не того размера
+  - Не та вещь
+  - Не хватает вещи в посылке
