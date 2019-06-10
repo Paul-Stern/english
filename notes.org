@@ -1,8 +1,23 @@
 #+EXPORT_FILE_NAME: README.md
+Добро пожаловать на страницу со сборником ресурсов по теме 
+"Английский язык и информационно-коммуникационные технологии"
+Цель этой страницы \mdash объединить наиболее важные и доступные сайты.
+
+# Существуют разные оценки количества языков в современном мире. 
+В современном мире  Среди них самым распространенным вторым
+языком является английский.
+Английский язык играет важную роль в современном мире. Сегодня по разным оценкам
+насчитывается от 2,5 до 5 тыс. [fn:belang] или более 7 тыс. 
+языков [fn:elogue-sum]. Английский среди них самый распространенный 
+[fn:elogue-eng]
+
+# Он является языком 
+# международного общения. А следователь
+
 * Ссылки
 
 ** Словари
-- [[https://en.oxforddictionaries.com/]]
+- https://www.lexico.com/en. Старая [[[[https://en.oxforddictionaries.com/]]][ссылка]]
 - [[https://www.merriam-webster.com/]]
 - [[https://www.lingvolive.com/ru-ru]]
 
@@ -28,23 +43,10 @@ https://ru.aliexpress.com/
 http://cssgridgarden.com/
 *** Курс 2
 https://studio.code.org/s/course2
-* COMMENT Лексика
-- order
-- shop
-- smartphone
-- link
-- комплектующие ПК
-  - 
-  - 
-* COMMENT Грамматика
-** Глагол
-** Существительное
-** Местоимение
-** Прилагательное
-** Наречие
-* COMMENT Навыки
-- Заполнение адреса
-- Составление писем
-  - Одежда не того размера
-  - Не та вещь
-  - Не хватает вещи в посылке
+* Ссылки
+
+* Footnotes
+# [fn:belang] Арутюнова Н. Д. ЯЗЫК // Большая российская энциклопедия. Электронная версия (2017); https://bigenc.ru/linguistics/text/4924604 Дата обращения: 10.06.2019
+[fn:belang] https://bigenc.ru/linguistics/text/4924604
+[fn:elogue-sum] https://www.ethnologue.com/statistics
+[fn:elogue-eng] https://www.ethnologue.com/language/eng
