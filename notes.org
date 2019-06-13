@@ -56,6 +56,8 @@ https://ru.aliexpress.com/
 - https://bigenc.ru/
 - https://www.britannica.com/
 ** Hour of Code
+# Course catalogue https://studio.code.org/courses
+
 http://cssgridgarden.com/
 *** Курс 2
 https://studio.code.org/s/course2
