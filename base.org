@@ -1,0 +1,67 @@
+Добро пожаловать на страницу со сборником ресурсов по теме 
+ "Английский язык и информационно-коммуникационные технологии (ИКТ)"
+ Цель этой страницы \mdash объединить наиболее важные и доступные сайты.
+ Далее несколько слов о том, почему эта тема может быть интересна.
+
+Английский язык играет важную роль в современном мире. [fn:1] Чаще всего он
+ используется в качестве языка международного общения. Он 
+ позволяет людям из разных концов мира понимать друг друга. Таким образом
+ английский язык может способствовать решению задачи всеобщего взаимопонимания
+ людей в глобальном мире.
+
+Весомый вклад в повышении статуса английского языка сделало распространение 
+ информационных технологий. Этот язык стал де-факто стандартом создания и
+ описания явлений цифрового мира. Основой большинства наиболее
+ популярных языков программирования является именно английский язык.
+
+# ITU отчет по-русски https://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2018/MISR2018-ES-PDF-R.pdf
+При этом сами ИКТ являются не менее существенной частью нашей жизни. По [[https://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2018/MISR-2018-Vol-1-E.pdf][данным]] 
+ на 2018 г. число абонентов мобильной связи в мире приблизилось
+ к населению земного шара. 
+
+Вышеприведенные факты, позволяют сделать вывод о том, что данная тема может быть
+ не только интересна, но и полезна для широкого круга людей.
+
+# https://www.itu.int/en/ITU-D/Statistics/Documents/publications/misr2018/MISR-2018-Vol-1-E.pdf
+# Он является языком 
+# международного общения. А следователь
+
+* Ссылки
+
+** Словари
+- https://www.oxfordlearnersdictionaries.com/
+- https://www.lexico.com/en. Старая [[https://en.oxforddictionaries.com/][ссылка]].
+- [[https://www.merriam-webster.com/]]
+- [[https://www.lingvolive.com/ru-ru]]
+
+** Переводчики
+- https://translate.yandex.com/
+- https://translate.google.com/
+** Магазины
+*** Без поддержки русского языка
+- https://www.amazon.com/
+- https://www.gearbest.com/
+- https://www.walmart.com/
+- https://www.newegg.com/
+*** С частичной поддержкой русского языка
+https://ru.aliexpress.com/
+*** С поддержкой русского языка
+- https://www.ebay.com/
+- https://www.asos.com/ru/men/
+** Энциклопедии
+- https://www.wikipedia.org/
+- https://bigenc.ru/
+- https://www.britannica.com/
+** Hour of Code
+# Course catalogue https://studio.code.org/courses
+*** Курс 2
+https://studio.code.org/s/course2
+*** Курс 3
+https://studio.code.org/s/course3
+*** Grid Garden
+http://cssgridgarden.com/
+* Сноски
+
+[fn:1] В 2019 г. в мире насчитывается по [[https://bigenc.ru/linguistics/text/4924604][одной]] оценке от 2,5 до 5 тыс, по
+[[https://www.ethnologue.com/statistics][другой]] \mdash более 7 тыс. языков. Тот же [[https://www.ethnologue.com/language/eng][источник]] утверждает, что английский язык
+является самым распространенным в мире.

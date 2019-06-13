@@ -1,21 +1,15 @@
-- [Английский язык и информационно-коммуникационные технологии](#orgaa2e2f7)
-- [Ссылки](#orgf9f7851)
-  - [Словари](#orge728bd5)
-  - [Переводчики](#org4be5073)
-  - [Магазины](#org118f933)
-    - [Без поддержки русского языка](#org80baf5b)
-    - [С частичной поддержкой русского языка](#orgf174865)
-    - [С поддержкой русского языка](#org2a8948e)
-  - [Энциклопедии](#orgd903581)
-  - [Hour of Code](#org0d2f92a)
-    - [Курс 2](#orgd4a157a)
-    - [Курс 3](#org1bd656b)
-    - [Grid Garden](#org18626e2)
-- [Сноски](#org4f104c4)
+- [Английский язык и информационно-коммуникационные технологии](#orgc7b2196)
+  - [Ссылки](#org3fc89bc)
+    - [Словари](#org4b01b48)
+    - [Переводчики](#org3c072ef)
+    - [Магазины](#org9bf3386)
+    - [Энциклопедии](#org5d5d86c)
+    - [Hour of Code](#org355f328)
+  - [Сноски](#orgfeb5687)
 
 
 
-<a id="orgaa2e2f7"></a>
+<a id="orgc7b2196"></a>
 
 # Английский язык и информационно-коммуникационные технологии
 
@@ -30,14 +24,14 @@
 Вышеприведенные факты, позволяют сделать вывод о том, что данная тема может быть не только интересна, но и полезна для широкого круга людей.
 
 
-<a id="orgf9f7851"></a>
+<a id="org3fc89bc"></a>
 
-# Ссылки
+## Ссылки
 
 
-<a id="orge728bd5"></a>
+<a id="org4b01b48"></a>
 
-## Словари
+### Словари
 
 -   <https://www.oxfordlearnersdictionaries.com/>
 -   <https://www.lexico.com/en>. Старая [ссылка](https://en.oxforddictionaries.com/).
@@ -45,82 +39,64 @@
 -   <https://www.lingvolive.com/ru-ru>
 
 
-<a id="org4be5073"></a>
+<a id="org3c072ef"></a>
 
-## Переводчики
+### Переводчики
 
 -   <https://translate.yandex.com/>
 -   <https://translate.google.com/>
 
 
-<a id="org118f933"></a>
+<a id="org9bf3386"></a>
 
-## Магазины
+### Магазины
 
+1.  Без поддержки русского языка
 
-<a id="org80baf5b"></a>
+    -   <https://www.amazon.com/>
+    -   <https://www.gearbest.com/>
+    -   <https://www.walmart.com/>
+    -   <https://www.newegg.com/>
 
-### Без поддержки русского языка
+2.  С частичной поддержкой русского языка
 
--   <https://www.amazon.com/>
--   <https://www.gearbest.com/>
--   <https://www.walmart.com/>
--   <https://www.newegg.com/>
+    <https://ru.aliexpress.com/>
 
+3.  С поддержкой русского языка
 
-<a id="orgf174865"></a>
-
-### С частичной поддержкой русского языка
-
-<https://ru.aliexpress.com/>
-
-
-<a id="org2a8948e"></a>
-
-### С поддержкой русского языка
-
--   <https://www.ebay.com/>
--   <https://www.asos.com/ru/men/>
+    -   <https://www.ebay.com/>
+    -   <https://www.asos.com/ru/men/>
 
 
-<a id="orgd903581"></a>
+<a id="org5d5d86c"></a>
 
-## Энциклопедии
+### Энциклопедии
 
 -   <https://www.wikipedia.org/>
 -   <https://bigenc.ru/>
 -   <https://www.britannica.com/>
 
 
-<a id="org0d2f92a"></a>
+<a id="org355f328"></a>
 
-## Hour of Code
+### Hour of Code
 
+1.  Курс 2
 
-<a id="orgd4a157a"></a>
+    <https://studio.code.org/s/course2>
 
-### Курс 2
+2.  Курс 3
 
-<https://studio.code.org/s/course2>
+    <https://studio.code.org/s/course3>
 
+3.  Grid Garden
 
-<a id="org1bd656b"></a>
-
-### Курс 3
-
-<https://studio.code.org/s/course3>
+    <http://cssgridgarden.com/>
 
 
-<a id="org18626e2"></a>
+<a id="orgfeb5687"></a>
 
-### Grid Garden
-
-<http://cssgridgarden.com/>
-
-
-<a id="org4f104c4"></a>
-
-# Сноски
+## Сноски
 
 ## Footnotes
 

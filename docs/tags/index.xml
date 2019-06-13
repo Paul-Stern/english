@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Английский язык и информационные технологии</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Английский язык и информационные технологии</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>Ru-ru</language>
+    <lastBuildDate>Thu, 13 Jun 2019 17:26:28 +0300</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IT</title>
+      <link>http://example.org/tags/it/</link>
+      <pubDate>Thu, 13 Jun 2019 17:26:28 +0300</pubDate>
+      
+      <guid>http://example.org/tags/it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>english</title>
+      <link>http://example.org/tags/english/</link>
+      <pubDate>Thu, 13 Jun 2019 17:26:28 +0300</pubDate>
+      
+      <guid>http://example.org/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technologies</title>
+      <link>http://example.org/tags/technologies/</link>
+      <pubDate>Thu, 13 Jun 2019 17:26:28 +0300</pubDate>
+      
+      <guid>http://example.org/tags/technologies/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
