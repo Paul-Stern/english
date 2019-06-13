@@ -1,4 +1,6 @@
 #+EXPORT_FILE_NAME: README.md
+
+* Английский язык и информационно-коммуникационные технологии
 Добро пожаловать на страницу со сборником ресурсов по теме 
 "Английский язык и информационно-коммуникационные технологии (ИКТ)"
 Цель этой страницы \mdash объединить наиболее важные и доступные сайты.
@@ -30,6 +32,7 @@
 * Ссылки
 
 ** Словари
+- https://www.oxfordlearnersdictionaries.com/
 - https://www.lexico.com/en. Старая [[https://en.oxforddictionaries.com/][ссылка]].
 - [[https://www.merriam-webster.com/]]
 - [[https://www.lingvolive.com/ru-ru]]
