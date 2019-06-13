@@ -57,10 +57,12 @@ https://ru.aliexpress.com/
 - https://www.britannica.com/
 ** Hour of Code
 # Course catalogue https://studio.code.org/courses
-
-http://cssgridgarden.com/
 *** Курс 2
 https://studio.code.org/s/course2
+*** Курс 3
+https://studio.code.org/s/course3
+*** Grid Garden
+http://cssgridgarden.com/
 * Сноски
 
 [fn:1] В 2019 г. в мире насчитывается по [[https://bigenc.ru/linguistics/text/4924604][одной]] оценке от 2,5 до 5 тыс, по
