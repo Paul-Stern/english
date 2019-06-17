@@ -1,15 +1,15 @@
-- [Английский язык и информационно-коммуникационные технологии](#orgc7b2196)
-  - [Ссылки](#org3fc89bc)
-    - [Словари](#org4b01b48)
-    - [Переводчики](#org3c072ef)
-    - [Магазины](#org9bf3386)
-    - [Энциклопедии](#org5d5d86c)
-    - [Hour of Code](#org355f328)
-  - [Сноски](#orgfeb5687)
+- [Английский язык и информационно-коммуникационные технологии](#orga7968ce)
+  - [Ссылки](#org547e93d)
+    - [Словари](#org5c975bd)
+    - [Переводчики](#org99bfb5f)
+    - [Магазины](#orgd1e3114)
+    - [Энциклопедии](#org6c59fd0)
+    - [Hour of Code](#org5c7c2b9)
+  - [Сноски](#org8d29506)
 
 
 
-<a id="orgc7b2196"></a>
+<a id="orga7968ce"></a>
 
 # Английский язык и информационно-коммуникационные технологии
 
@@ -24,12 +24,12 @@
 Вышеприведенные факты, позволяют сделать вывод о том, что данная тема может быть не только интересна, но и полезна для широкого круга людей.
 
 
-<a id="org3fc89bc"></a>
+<a id="org547e93d"></a>
 
 ## Ссылки
 
 
-<a id="org4b01b48"></a>
+<a id="org5c975bd"></a>
 
 ### Словари
 
@@ -39,7 +39,7 @@
 -   <https://www.lingvolive.com/ru-ru>
 
 
-<a id="org3c072ef"></a>
+<a id="org99bfb5f"></a>
 
 ### Переводчики
 
@@ -47,7 +47,7 @@
 -   <https://translate.google.com/>
 
 
-<a id="org9bf3386"></a>
+<a id="orgd1e3114"></a>
 
 ### Магазины
 
@@ -68,7 +68,7 @@
     -   <https://www.asos.com/ru/men/>
 
 
-<a id="org5d5d86c"></a>
+<a id="org6c59fd0"></a>
 
 ### Энциклопедии
 
@@ -77,7 +77,7 @@
 -   <https://www.britannica.com/>
 
 
-<a id="org355f328"></a>
+<a id="org5c7c2b9"></a>
 
 ### Hour of Code
 
@@ -89,12 +89,16 @@
 
     <https://studio.code.org/s/course3>
 
-3.  Grid Garden
+3.  Курс F
+
+    <https://studio.code.org/s/coursef-2019>
+
+4.  Grid Garden
 
     <http://cssgridgarden.com/>
 
 
-<a id="orgfeb5687"></a>
+<a id="org8d29506"></a>
 
 ## Сноски
 

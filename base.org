@@ -58,6 +58,8 @@ https://ru.aliexpress.com/
 https://studio.code.org/s/course2
 *** Курс 3
 https://studio.code.org/s/course3
+*** Курс F
+https://studio.code.org/s/coursef-2019
 *** Grid Garden
 http://cssgridgarden.com/
 * Сноски

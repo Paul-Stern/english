@@ -1,4 +1,4 @@
-#+HUGO_BASE_DIR: c:/Hugo/Sites/EIT
+# #+HUGO_BASE_DIR: c:/Hugo/Sites/EIT
 #+EXPORT_FILE_NAME: README.md
 
 * Английский язык и информационно-коммуникационные технологии
