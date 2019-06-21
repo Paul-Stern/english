@@ -88,6 +88,8 @@ https://studio.code.org/s/course2
 https://studio.code.org/s/course3
 *** Курс 4
 https://studio.code.org/s/course4
+*** Курс A
+https://studio.code.org/s/coursea-2019
 *** Курс B
 https://studio.code.org/s/courseb-2019
 *** Курс C

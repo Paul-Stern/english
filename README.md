@@ -1,15 +1,15 @@
-- [Английский язык и информационно-коммуникационные технологии](#org3f26ec0)
-  - [Ссылки](#org7e0d85d)
-    - [Словари](#org8b1718a)
-    - [Переводчики](#org89d3296)
-    - [Магазины](#orga8660bf)
-    - [Энциклопедии](#org196e693)
-    - [Code.org](#org8e6acfa)
-  - [Сноски](#org0411a61)
+- [Английский язык и информационно-коммуникационные технологии](#org8112084)
+  - [Ссылки](#org6bee69b)
+    - [Словари](#orgb5bbb7d)
+    - [Переводчики](#orgd44c515)
+    - [Магазины](#org40aca29)
+    - [Энциклопедии](#orgd311342)
+    - [Code.org](#orged18f1b)
+  - [Сноски](#orgd57778b)
 
 
 
-<a id="org3f26ec0"></a>
+<a id="org8112084"></a>
 
 # Английский язык и информационно-коммуникационные технологии
 
@@ -24,12 +24,12 @@
 Вышеприведенные факты, позволяют сделать вывод о том, что данная тема может быть не только интересна, но и полезна для широкого круга людей.
 
 
-<a id="org7e0d85d"></a>
+<a id="org6bee69b"></a>
 
 ## Ссылки
 
 
-<a id="org8b1718a"></a>
+<a id="orgb5bbb7d"></a>
 
 ### Словари
 
@@ -49,7 +49,7 @@
 перевод слов с английского на русский.
 
 
-<a id="org89d3296"></a>
+<a id="orgd44c515"></a>
 
 ### Переводчики
 
@@ -59,7 +59,7 @@
 -   <https://translate.google.com/>
 
 
-<a id="orga8660bf"></a>
+<a id="org40aca29"></a>
 
 ### Магазины
 
@@ -80,7 +80,7 @@
     -   <https://www.asos.com/ru/men/>
 
 
-<a id="org196e693"></a>
+<a id="orgd311342"></a>
 
 ### Энциклопедии
 
@@ -96,7 +96,7 @@
 англоязычная энциклопедия.
 
 
-<a id="org8e6acfa"></a>
+<a id="orged18f1b"></a>
 
 ### Code.org
 
@@ -116,32 +116,36 @@ Code.org &mdash; некоммерческая организация, заним
 
     <https://studio.code.org/s/course4>
 
-4.  Курс B
+4.  Курс A
+
+    <https://studio.code.org/s/coursea-2019>
+
+5.  Курс B
 
     <https://studio.code.org/s/courseb-2019>
 
-5.  Курс C
+6.  Курс C
 
     <https://studio.code.org/s/coursec-2019>
 
-6.  Курс D
+7.  Курс D
 
     <https://studio.code.org/s/coursed-2019>
 
-7.  Курс E
+8.  Курс E
 
     <https://studio.code.org/s/coursee-2019>
 
-8.  Курс F
+9.  Курс F
 
     <https://studio.code.org/s/coursef-2019>
 
-9.  Grid Garden
+10. Grid Garden
 
     <http://cssgridgarden.com/>
 
 
-<a id="org0411a61"></a>
+<a id="orgd57778b"></a>
 
 ## Сноски
 
