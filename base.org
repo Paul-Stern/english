@@ -103,12 +103,50 @@ https://studio.code.org/s/coursef-2019
 http://cssgridgarden.com/
 * Сервисы
 - https://youglish.com/ :: YouGlish (YouTube + English). С помощью этого сервиса можно находить как произносятся те или иные слова английские на видео в YouTube.
-- https://learnenglishkids.britishcouncil.org/ :: LearnEnglish Kids. Материалы для изучения английского для детей.
 # - https://learnenglishteens.britishcouncil.org/ ::
 # - https://learnenglish.britishcouncil.org/ :: 
+* British Council
+British Council переводится как Британский Совет
+
+#+begin_quote
+Британский Совет – это международная организация, представляющая Великобританию в области культуры и образования. Мы работаем в более чем 100 странах на шести континентах, создавая возможности для международного сотрудничества[fn:3]. 
+#+end_quote
+
+
+- https://learnenglishkids.britishcouncil.org/ :: LearnEnglish Kids. Материалы для изучения английского для детей.
+** Computers and technology
+https://learnenglishkids.britishcouncil.org/category/topics/computers-and-technology
+*** Flashcards
+[[https://learnenglishkids.britishcouncil.org/flashcards/technology-flashcards][webpage]]
+# [[https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-technology.pdf][colour]]
+# [[https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-technology-bw.pdf][b&write]]
+**** COMMENT answer
+- batteries
+- camera
+- computer
+- computer game
+- internet
+- keyboard
+- light switch
+- mobile phone
+- mouse
+- tablet
+- torch
+*** It's easy to click
+[[https://learnenglishkids.britishcouncil.org/poems/its-easy-click][webpage]]
+*** Dinosaur Dig
+[[https://learnenglishkids.britishcouncil.org/short-stories/dinosaur-dig][webpage]]
+*** Digital citizenship
+[[https://learnenglishkids.britishcouncil.org/worksheets/digital-citizenship][webpage]]
+# [[https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/worksheets-digital-citizenship.pdf][.pdf]]
+*** Safety Tips
+[[https://learnenglishkids.britishcouncil.org/video-zone/five-internet-safety-tips][webpage]]
+*** Problem page (game-test)
+[[https://learnenglishkids.britishcouncil.org/writing-practice/problem-page][webpage]]
 * Сноски
 
 [fn:1] В 2019 г. в мире насчитывается по [[https://bigenc.ru/linguistics/text/4924604][одной]] оценке от 2,5 до 5 тыс, по
 [[https://www.ethnologue.com/statistics][другой]] \mdash более 7 тыс. языков. Тот же [[https://www.ethnologue.com/language/eng][источник]] утверждает, что английский язык
 является самым распространенным в мире.
 [fn:2] https://code.org/about
+[fn:3] https://www.britishcouncil.ru/

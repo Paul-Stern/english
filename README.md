@@ -1,28 +1,30 @@
-- [Английский язык и информационно-коммуникационные технологии](#org3f63ed1)
-  - [Словари](#orgf22cf5a)
-  - [Переводчики](#org824bced)
-  - [Магазины](#orgfb9dc52)
-    - [Без поддержки русского языка](#org5cdc5de)
-    - [С частичной поддержкой русского языка](#org3e4dd3a)
-    - [С поддержкой русского языка](#org08155c1)
-  - [Энциклопедии](#org139713c)
-  - [Code.org](#org124b825)
-    - [Курс 2](#orgded61a8)
-    - [Курс 3](#org31d4a4c)
-    - [Курс 4](#orgfdfcf13)
-    - [Курс A](#orgaa183e5)
-    - [Курс B](#org2a60184)
-    - [Курс C](#org26bb383)
-    - [Курс D](#org11eb4a5)
-    - [Курс E](#org5dea362)
-    - [Курс F](#org4fdf2c7)
-    - [Grid Garden](#orge9a546f)
-  - [Сервисы](#org746ae47)
-  - [Сноски](#org7326dc4)
+- [Английский язык и информационно-коммуникационные технологии](#orga64cbb1)
+  - [Словари](#orgcf1df63)
+  - [Переводчики](#org535f865)
+  - [Магазины](#org9e6688f)
+    - [Без поддержки русского языка](#org0d470aa)
+    - [С частичной поддержкой русского языка](#org7c16441)
+    - [С поддержкой русского языка](#orge6e3e9f)
+  - [Энциклопедии](#orgc5d2603)
+  - [Code.org](#org6aa16f0)
+    - [Курс 2](#org58e8c67)
+    - [Курс 3](#org8199203)
+    - [Курс 4](#org08ee200)
+    - [Курс A](#org7951426)
+    - [Курс B](#org17f0f34)
+    - [Курс C](#org1d1a46f)
+    - [Курс D](#org282bcf6)
+    - [Курс E](#orgfcbc79f)
+    - [Курс F](#orga947cd1)
+    - [Grid Garden](#org7cb6c23)
+  - [Сервисы](#orgb1de242)
+  - [British Council](#org42036a8)
+    - [Computers and technology](#orga9ffa0d)
+  - [Сноски](#orgec868d7)
 
 
 
-<a id="org3f63ed1"></a>
+<a id="orga64cbb1"></a>
 
 # Английский язык и информационно-коммуникационные технологии
 
@@ -37,7 +39,7 @@
 Вышеприведенные факты, позволяют сделать вывод о том, что данная тема может быть не только интересна, но и полезна для широкого круга людей.
 
 
-<a id="orgf22cf5a"></a>
+<a id="orgcf1df63"></a>
 
 ## Словари
 
@@ -57,7 +59,7 @@
 перевод слов с английского на русский.
 
 
-<a id="org824bced"></a>
+<a id="org535f865"></a>
 
 ## Переводчики
 
@@ -67,12 +69,12 @@
 -   <https://translate.google.com/>
 
 
-<a id="orgfb9dc52"></a>
+<a id="org9e6688f"></a>
 
 ## Магазины
 
 
-<a id="org5cdc5de"></a>
+<a id="org0d470aa"></a>
 
 ### Без поддержки русского языка
 
@@ -82,14 +84,14 @@
 -   <https://www.newegg.com/>
 
 
-<a id="org3e4dd3a"></a>
+<a id="org7c16441"></a>
 
 ### С частичной поддержкой русского языка
 
 <https://ru.aliexpress.com/>
 
 
-<a id="org08155c1"></a>
+<a id="orge6e3e9f"></a>
 
 ### С поддержкой русского языка
 
@@ -97,7 +99,7 @@
 -   <https://www.asos.com/ru/men/>
 
 
-<a id="org139713c"></a>
+<a id="orgc5d2603"></a>
 
 ## Энциклопедии
 
@@ -113,7 +115,7 @@
 англоязычная энциклопедия.
 
 
-<a id="org124b825"></a>
+<a id="org6aa16f0"></a>
 
 ## Code.org
 
@@ -122,85 +124,126 @@ Code.org &mdash; некоммерческая организация, заним
 В контексте наших занятий рекомендуется проходить курсы на английском языке. Это способствует развитию, с одной стороны, алгоритмического мышления, необходимого для понимания сущности ИКТ, а с другой, навыков владения английским языком, необходимых для ориентирования в глобальном мире. При выполнении заданий курса предусмотрено использование словарей и переводчиков.
 
 
-<a id="orgded61a8"></a>
+<a id="org58e8c67"></a>
 
 ### Курс 2
 
 <https://studio.code.org/s/course2>
 
 
-<a id="org31d4a4c"></a>
+<a id="org8199203"></a>
 
 ### Курс 3
 
 <https://studio.code.org/s/course3>
 
 
-<a id="orgfdfcf13"></a>
+<a id="org08ee200"></a>
 
 ### Курс 4
 
 <https://studio.code.org/s/course4>
 
 
-<a id="orgaa183e5"></a>
+<a id="org7951426"></a>
 
 ### Курс A
 
 <https://studio.code.org/s/coursea-2019>
 
 
-<a id="org2a60184"></a>
+<a id="org17f0f34"></a>
 
 ### Курс B
 
 <https://studio.code.org/s/courseb-2019>
 
 
-<a id="org26bb383"></a>
+<a id="org1d1a46f"></a>
 
 ### Курс C
 
 <https://studio.code.org/s/coursec-2019>
 
 
-<a id="org11eb4a5"></a>
+<a id="org282bcf6"></a>
 
 ### Курс D
 
 <https://studio.code.org/s/coursed-2019>
 
 
-<a id="org5dea362"></a>
+<a id="orgfcbc79f"></a>
 
 ### Курс E
 
 <https://studio.code.org/s/coursee-2019>
 
 
-<a id="org4fdf2c7"></a>
+<a id="orga947cd1"></a>
 
 ### Курс F
 
 <https://studio.code.org/s/coursef-2019>
 
 
-<a id="orge9a546f"></a>
+<a id="org7cb6c23"></a>
 
 ### Grid Garden
 
 <http://cssgridgarden.com/>
 
 
-<a id="org746ae47"></a>
+<a id="orgb1de242"></a>
 
 ## Сервисы
 
 -   **<https://youglish.com/>:** YouGlish (YouTube + English). С помощью этого сервиса можно находить как произносятся те или иные слова английские на видео в YouTube.
+
+
+<a id="org42036a8"></a>
+
+## British Council
+
+British Council переводится как Британский Совет
+
+> Британский Совет – это международная организация, представляющая Великобританию в области культуры и образования. Мы работаем в более чем 100 странах на шести континентах, создавая возможности для международного сотрудничества<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>.
+
 -   **<https://learnenglishkids.britishcouncil.org/>:** LearnEnglish Kids. Материалы для изучения английского для детей.
 
 
-<a id="org7326dc4"></a>
+<a id="orga9ffa0d"></a>
+
+### Computers and technology
+
+<https://learnenglishkids.britishcouncil.org/category/topics/computers-and-technology>
+
+1.  Flashcards
+
+    [webpage](https://learnenglishkids.britishcouncil.org/flashcards/technology-flashcards)
+
+2.  It's easy to click
+
+    [webpage](https://learnenglishkids.britishcouncil.org/poems/its-easy-click)
+
+3.  Dinosaur Dig
+
+    [webpage](https://learnenglishkids.britishcouncil.org/short-stories/dinosaur-dig)
+
+4.  Digital citizenship
+
+    [webpage](https://learnenglishkids.britishcouncil.org/worksheets/digital-citizenship)
+
+5.  Safety Tips
+
+    [webpage](https://learnenglishkids.britishcouncil.org/video-zone/five-internet-safety-tips)
+
+6.  Problem page (game-test)
+
+    [webpage](https://learnenglishkids.britishcouncil.org/writing-practice/problem-page)
+
+
+<a id="orgec868d7"></a>
 
 ## Сноски
 
@@ -209,3 +252,5 @@ Code.org &mdash; некоммерческая организация, заним
 <sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> В 2019 г. в мире насчитывается по [одной](https://bigenc.ru/linguistics/text/4924604) оценке от 2,5 до 5 тыс, по [другой](https://www.ethnologue.com/statistics) &mdash; более 7 тыс. языков. Тот же [источник](https://www.ethnologue.com/language/eng) утверждает, что английский язык является самым распространенным в мире.
 
 <sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> <https://code.org/about>
+
+<sup><a id="fn.3" class="footnum" href="#fnr.3">3</a></sup> <https://www.britishcouncil.ru/>
