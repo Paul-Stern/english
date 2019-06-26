@@ -1,28 +1,28 @@
-- [Английский язык и информационно-коммуникационные технологии](#orgf4dd2e3)
-  - [Словари](#orgbcfdfe9)
-  - [Переводчики](#org8175f17)
-  - [Магазины](#org01b0529)
-    - [Без поддержки русского языка](#orge9ceca9)
-    - [С частичной поддержкой русского языка](#org0df6250)
-    - [С поддержкой русского языка](#orge52bcc5)
-  - [Энциклопедии](#org604a1e1)
-  - [Code.org](#orgdb712cf)
-    - [Курс 2](#org002a2c7)
-    - [Курс 3](#orga9fccb3)
-    - [Курс 4](#orgb1a5263)
-    - [Курс A](#org44df13a)
-    - [Курс B](#orgbe268c1)
-    - [Курс C](#orgda6ad0c)
-    - [Курс D](#org75e51d1)
-    - [Курс E](#org0a30d7e)
-    - [Курс F](#orgc40fbf4)
-    - [Grid Garden](#orgae58f18)
-  - [Сервисы](#org3a6f2ae)
-  - [Сноски](#org0b3c361)
+- [Английский язык и информационно-коммуникационные технологии](#org3f63ed1)
+  - [Словари](#orgf22cf5a)
+  - [Переводчики](#org824bced)
+  - [Магазины](#orgfb9dc52)
+    - [Без поддержки русского языка](#org5cdc5de)
+    - [С частичной поддержкой русского языка](#org3e4dd3a)
+    - [С поддержкой русского языка](#org08155c1)
+  - [Энциклопедии](#org139713c)
+  - [Code.org](#org124b825)
+    - [Курс 2](#orgded61a8)
+    - [Курс 3](#org31d4a4c)
+    - [Курс 4](#orgfdfcf13)
+    - [Курс A](#orgaa183e5)
+    - [Курс B](#org2a60184)
+    - [Курс C](#org26bb383)
+    - [Курс D](#org11eb4a5)
+    - [Курс E](#org5dea362)
+    - [Курс F](#org4fdf2c7)
+    - [Grid Garden](#orge9a546f)
+  - [Сервисы](#org746ae47)
+  - [Сноски](#org7326dc4)
 
 
 
-<a id="orgf4dd2e3"></a>
+<a id="org3f63ed1"></a>
 
 # Английский язык и информационно-коммуникационные технологии
 
@@ -37,7 +37,7 @@
 Вышеприведенные факты, позволяют сделать вывод о том, что данная тема может быть не только интересна, но и полезна для широкого круга людей.
 
 
-<a id="orgbcfdfe9"></a>
+<a id="orgf22cf5a"></a>
 
 ## Словари
 
@@ -57,7 +57,7 @@
 перевод слов с английского на русский.
 
 
-<a id="org8175f17"></a>
+<a id="org824bced"></a>
 
 ## Переводчики
 
@@ -67,12 +67,12 @@
 -   <https://translate.google.com/>
 
 
-<a id="org01b0529"></a>
+<a id="orgfb9dc52"></a>
 
 ## Магазины
 
 
-<a id="orge9ceca9"></a>
+<a id="org5cdc5de"></a>
 
 ### Без поддержки русского языка
 
@@ -82,14 +82,14 @@
 -   <https://www.newegg.com/>
 
 
-<a id="org0df6250"></a>
+<a id="org3e4dd3a"></a>
 
 ### С частичной поддержкой русского языка
 
 <https://ru.aliexpress.com/>
 
 
-<a id="orge52bcc5"></a>
+<a id="org08155c1"></a>
 
 ### С поддержкой русского языка
 
@@ -97,7 +97,7 @@
 -   <https://www.asos.com/ru/men/>
 
 
-<a id="org604a1e1"></a>
+<a id="org139713c"></a>
 
 ## Энциклопедии
 
@@ -113,7 +113,7 @@
 англоязычная энциклопедия.
 
 
-<a id="orgdb712cf"></a>
+<a id="org124b825"></a>
 
 ## Code.org
 
@@ -122,86 +122,85 @@ Code.org &mdash; некоммерческая организация, заним
 В контексте наших занятий рекомендуется проходить курсы на английском языке. Это способствует развитию, с одной стороны, алгоритмического мышления, необходимого для понимания сущности ИКТ, а с другой, навыков владения английским языком, необходимых для ориентирования в глобальном мире. При выполнении заданий курса предусмотрено использование словарей и переводчиков.
 
 
-<a id="org002a2c7"></a>
+<a id="orgded61a8"></a>
 
 ### Курс 2
 
 <https://studio.code.org/s/course2>
 
 
-<a id="orga9fccb3"></a>
+<a id="org31d4a4c"></a>
 
 ### Курс 3
 
 <https://studio.code.org/s/course3>
 
 
-<a id="orgb1a5263"></a>
+<a id="orgfdfcf13"></a>
 
 ### Курс 4
 
 <https://studio.code.org/s/course4>
 
 
-<a id="org44df13a"></a>
+<a id="orgaa183e5"></a>
 
 ### Курс A
 
 <https://studio.code.org/s/coursea-2019>
 
 
-<a id="orgbe268c1"></a>
+<a id="org2a60184"></a>
 
 ### Курс B
 
 <https://studio.code.org/s/courseb-2019>
 
 
-<a id="orgda6ad0c"></a>
+<a id="org26bb383"></a>
 
 ### Курс C
 
 <https://studio.code.org/s/coursec-2019>
 
 
-<a id="org75e51d1"></a>
+<a id="org11eb4a5"></a>
 
 ### Курс D
 
 <https://studio.code.org/s/coursed-2019>
 
 
-<a id="org0a30d7e"></a>
+<a id="org5dea362"></a>
 
 ### Курс E
 
 <https://studio.code.org/s/coursee-2019>
 
 
-<a id="orgc40fbf4"></a>
+<a id="org4fdf2c7"></a>
 
 ### Курс F
 
 <https://studio.code.org/s/coursef-2019>
 
 
-<a id="orgae58f18"></a>
+<a id="orge9a546f"></a>
 
 ### Grid Garden
 
 <http://cssgridgarden.com/>
 
 
-<a id="org3a6f2ae"></a>
+<a id="org746ae47"></a>
 
 ## Сервисы
 
--   <https://youglish.com/> - YouGlish (YouTube + English). С помощью этого сервиса
+-   **<https://youglish.com/>:** YouGlish (YouTube + English). С помощью этого сервиса можно находить как произносятся те или иные слова английские на видео в YouTube.
+-   **<https://learnenglishkids.britishcouncil.org/>:** LearnEnglish Kids. Материалы для изучения английского для детей.
 
-можно находить как произносятся те или иные слова английские на видео в YouTube.
 
-
-<a id="org0b3c361"></a>
+<a id="org7326dc4"></a>
 
 ## Сноски
 

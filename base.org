@@ -102,8 +102,10 @@ https://studio.code.org/s/coursef-2019
 ** Grid Garden
 http://cssgridgarden.com/
 * Сервисы
-- https://youglish.com/ - YouGlish (YouTube + English). С помощью этого сервиса
-можно находить как произносятся те или иные слова английские на видео в YouTube.
+- https://youglish.com/ :: YouGlish (YouTube + English). С помощью этого сервиса можно находить как произносятся те или иные слова английские на видео в YouTube.
+- https://learnenglishkids.britishcouncil.org/ :: LearnEnglish Kids. Материалы для изучения английского для детей.
+# - https://learnenglishteens.britishcouncil.org/ ::
+# - https://learnenglish.britishcouncil.org/ :: 
 * Сноски
 
 [fn:1] В 2019 г. в мире насчитывается по [[https://bigenc.ru/linguistics/text/4924604][одной]] оценке от 2,5 до 5 тыс, по
