@@ -105,6 +105,7 @@ http://cssgridgarden.com/
 - https://youglish.com/ :: YouGlish (YouTube + English). С помощью этого сервиса можно находить как произносятся те или иные слова английские на видео в YouTube.
 # - https://learnenglishteens.britishcouncil.org/ ::
 # - https://learnenglish.britishcouncil.org/ :: 
+# - http://lelang.ru/
 * British Council
 British Council переводится как Британский Совет
 
