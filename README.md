@@ -1,24 +1,24 @@
-- [Английский язык и информационно-коммуникационные технологии](#orga245541)
-  - [Словари](#orga99199f)
-  - [Переводчики](#orgcd4f0b2)
-  - [Магазины](#org4d91984)
-    - [Без поддержки русского языка](#orgfe6bc50)
-    - [С частичной поддержкой русского языка](#orgf500b82)
-    - [С поддержкой русского языка](#org0ebda91)
-  - [Энциклопедии](#org9b3e7e8)
-  - [Code.org](#org98e653c)
-    - [](#org67d3d5b)
-    - [Курсы 2019](#org8233037)
-    - [Hour of Code](#org24c3263)
-    - [Grid Garden](#org2a46f52)
-  - [Сервисы](#orgba0ab92)
-  - [British Council](#orgfc1e502)
-    - [Computers and technology](#org1ed0109)
-  - [Сноски](#org4872f08)
+- [Английский язык и информационно-коммуникационные технологии](#org447f035)
+  - [Словари](#orgb50aaa9)
+  - [Переводчики](#org986d99e)
+  - [Магазины](#org128c7c1)
+    - [Без поддержки русского языка](#org0bef850)
+    - [С частичной поддержкой русского языка](#orga3a1249)
+    - [С поддержкой русского языка](#org0d6e213)
+  - [Энциклопедии](#org24538c4)
+  - [Code.org](#org7a990c8)
+    - [](#org96ac9c9)
+    - [Курсы 2019](#org50ed516)
+    - [Hour of Code](#orgabec8f1)
+    - [Grid Garden](#orgb23c89a)
+  - [Сервисы](#org52c7c8b)
+  - [British Council](#org65cb3c7)
+    - [Computers and technology](#org04edf6d)
+  - [Сноски](#orgaa44899)
 
 
 
-<a id="orga245541"></a>
+<a id="org447f035"></a>
 
 # Английский язык и информационно-коммуникационные технологии
 
@@ -33,7 +33,7 @@
 Вышеприведенные факты, позволяют сделать вывод о том, что данная тема может быть не только интересна, но и полезна для широкого круга людей.
 
 
-<a id="orga99199f"></a>
+<a id="orgb50aaa9"></a>
 
 ## Словари
 
@@ -53,7 +53,7 @@
 перевод слов с английского на русский.
 
 
-<a id="orgcd4f0b2"></a>
+<a id="org986d99e"></a>
 
 ## Переводчики
 
@@ -63,12 +63,12 @@
 -   <https://translate.google.com/>
 
 
-<a id="org4d91984"></a>
+<a id="org128c7c1"></a>
 
 ## Магазины
 
 
-<a id="orgfe6bc50"></a>
+<a id="org0bef850"></a>
 
 ### Без поддержки русского языка
 
@@ -78,14 +78,14 @@
 -   <https://www.newegg.com/>
 
 
-<a id="orgf500b82"></a>
+<a id="orga3a1249"></a>
 
 ### С частичной поддержкой русского языка
 
 <https://ru.aliexpress.com/>
 
 
-<a id="org0ebda91"></a>
+<a id="org0d6e213"></a>
 
 ### С поддержкой русского языка
 
@@ -93,7 +93,7 @@
 -   <https://www.asos.com/ru/men/>
 
 
-<a id="org9b3e7e8"></a>
+<a id="org24538c4"></a>
 
 ## Энциклопедии
 
@@ -109,7 +109,7 @@
 англоязычная энциклопедия.
 
 
-<a id="org98e653c"></a>
+<a id="org7a990c8"></a>
 
 ## Code.org
 
@@ -118,7 +118,7 @@ Code.org &mdash; некоммерческая организация, заним
 В контексте наших занятий рекомендуется проходить курсы на английском языке. Они способствуют развитию, с одной стороны, алгоритмического мышления, необходимого для понимания сущности ИКТ, а с другой, навыков владения английским языком, необходимых для ориентирования в глобальном мире. При выполнении заданий курса предусмотрено использование словарей и переводчиков.
 
 
-<a id="org67d3d5b"></a>
+<a id="org96ac9c9"></a>
 
 ### 
 
@@ -127,7 +127,7 @@ Code.org &mdash; некоммерческая организация, заним
 -   [Курс 4](https://studio.code.org/s/course4)
 
 
-<a id="org8233037"></a>
+<a id="org50ed516"></a>
 
 ### Курсы 2019
 
@@ -139,7 +139,7 @@ Code.org &mdash; некоммерческая организация, заним
 -   [Курс F](https://studio.code.org/s/coursef-2019)
 
 
-<a id="org24c3263"></a>
+<a id="orgabec8f1"></a>
 
 ### Hour of Code
 
@@ -149,21 +149,21 @@ Code.org &mdash; некоммерческая организация, заним
 -   [Globaloria](http://code.globaloria.com/)
 
 
-<a id="org2a46f52"></a>
+<a id="orgb23c89a"></a>
 
 ### Grid Garden
 
 <http://cssgridgarden.com/>
 
 
-<a id="orgba0ab92"></a>
+<a id="org52c7c8b"></a>
 
 ## Сервисы
 
 -   **<https://youglish.com/>:** YouGlish (YouTube + English). С помощью этого сервиса можно находить как произносятся те или иные слова английские на видео в YouTube.
 
 
-<a id="orgfc1e502"></a>
+<a id="org65cb3c7"></a>
 
 ## British Council
 
@@ -174,38 +174,21 @@ British Council переводится как Британский Совет
 -   **<https://learnenglishkids.britishcouncil.org/>:** LearnEnglish Kids. Материалы для изучения английского для детей.
 
 
-<a id="org1ed0109"></a>
+<a id="org04edf6d"></a>
 
 ### Computers and technology
 
 <https://learnenglishkids.britishcouncil.org/category/topics/computers-and-technology>
 
-1.  Flashcards
-
-    [webpage](https://learnenglishkids.britishcouncil.org/flashcards/technology-flashcards)
-
-2.  It's easy to click
-
-    [webpage](https://learnenglishkids.britishcouncil.org/poems/its-easy-click)
-
-3.  Dinosaur Dig
-
-    [webpage](https://learnenglishkids.britishcouncil.org/short-stories/dinosaur-dig)
-
-4.  Digital citizenship
-
-    [webpage](https://learnenglishkids.britishcouncil.org/worksheets/digital-citizenship)
-
-5.  Safety Tips
-
-    [webpage](https://learnenglishkids.britishcouncil.org/video-zone/five-internet-safety-tips)
-
-6.  Problem page (game-test)
-
-    [webpage](https://learnenglishkids.britishcouncil.org/writing-practice/problem-page)
+-   [Flashcards](https://learnenglishkids.britishcouncil.org/flashcards/technology-flashcards)
+-   [It's easy to click](https://learnenglishkids.britishcouncil.org/poems/its-easy-click)
+-   [Dinosaur Dig](https://learnenglishkids.britishcouncil.org/short-stories/dinosaur-dig)
+-   [Digital citizenship](https://learnenglishkids.britishcouncil.org/worksheets/digital-citizenship)
+-   [Safety Tips](https://learnenglishkids.britishcouncil.org/video-zone/five-internet-safety-tips)
+-   [Problem page (game-test)](https://learnenglishkids.britishcouncil.org/writing-practice/problem-page)
 
 
-<a id="org4872f08"></a>
+<a id="orgaa44899"></a>
 
 ## Сноски
 

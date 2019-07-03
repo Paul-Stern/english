@@ -120,6 +120,15 @@ British Council переводится как Британский Совет
 - https://learnenglishkids.britishcouncil.org/ :: LearnEnglish Kids. Материалы для изучения английского для детей.
 ** Computers and technology
 https://learnenglishkids.britishcouncil.org/category/topics/computers-and-technology
+- [[https://learnenglishkids.britishcouncil.org/flashcards/technology-flashcards][Flashcards]]
+- [[https://learnenglishkids.britishcouncil.org/poems/its-easy-click][It's easy to click]]
+- [[https://learnenglishkids.britishcouncil.org/short-stories/dinosaur-dig][Dinosaur Dig]]
+- [[https://learnenglishkids.britishcouncil.org/worksheets/digital-citizenship][Digital citizenship]]
+- [[https://learnenglishkids.britishcouncil.org/video-zone/five-internet-safety-tips][Safety Tips]]
+- [[https://learnenglishkids.britishcouncil.org/writing-practice/problem-page][Problem page (game-test)]]
+  [[https://learnenglishkids.britishcouncil.org/writing-practice/problem-page][webpage]]
+** COMMENT Computers and technology (old)
+https://learnenglishkids.britishcouncil.org/category/topics/computers-and-technology
 *** Flashcards
 [[https://learnenglishkids.britishcouncil.org/flashcards/technology-flashcards][webpage]]
 # [[https://learnenglishkids.britishcouncil.org/sites/kids/files/attachment/flashcards-technology.pdf][colour]]
