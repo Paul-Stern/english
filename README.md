@@ -1,30 +1,24 @@
-- [Английский язык и информационно-коммуникационные технологии](#orga64cbb1)
-  - [Словари](#orgcf1df63)
-  - [Переводчики](#org535f865)
-  - [Магазины](#org9e6688f)
-    - [Без поддержки русского языка](#org0d470aa)
-    - [С частичной поддержкой русского языка](#org7c16441)
-    - [С поддержкой русского языка](#orge6e3e9f)
-  - [Энциклопедии](#orgc5d2603)
-  - [Code.org](#org6aa16f0)
-    - [Курс 2](#org58e8c67)
-    - [Курс 3](#org8199203)
-    - [Курс 4](#org08ee200)
-    - [Курс A](#org7951426)
-    - [Курс B](#org17f0f34)
-    - [Курс C](#org1d1a46f)
-    - [Курс D](#org282bcf6)
-    - [Курс E](#orgfcbc79f)
-    - [Курс F](#orga947cd1)
-    - [Grid Garden](#org7cb6c23)
-  - [Сервисы](#orgb1de242)
-  - [British Council](#org42036a8)
-    - [Computers and technology](#orga9ffa0d)
-  - [Сноски](#orgec868d7)
+- [Английский язык и информационно-коммуникационные технологии](#orga245541)
+  - [Словари](#orga99199f)
+  - [Переводчики](#orgcd4f0b2)
+  - [Магазины](#org4d91984)
+    - [Без поддержки русского языка](#orgfe6bc50)
+    - [С частичной поддержкой русского языка](#orgf500b82)
+    - [С поддержкой русского языка](#org0ebda91)
+  - [Энциклопедии](#org9b3e7e8)
+  - [Code.org](#org98e653c)
+    - [](#org67d3d5b)
+    - [Курсы 2019](#org8233037)
+    - [Hour of Code](#org24c3263)
+    - [Grid Garden](#org2a46f52)
+  - [Сервисы](#orgba0ab92)
+  - [British Council](#orgfc1e502)
+    - [Computers and technology](#org1ed0109)
+  - [Сноски](#org4872f08)
 
 
 
-<a id="orga64cbb1"></a>
+<a id="orga245541"></a>
 
 # Английский язык и информационно-коммуникационные технологии
 
@@ -39,7 +33,7 @@
 Вышеприведенные факты, позволяют сделать вывод о том, что данная тема может быть не только интересна, но и полезна для широкого круга людей.
 
 
-<a id="orgcf1df63"></a>
+<a id="orga99199f"></a>
 
 ## Словари
 
@@ -59,7 +53,7 @@
 перевод слов с английского на русский.
 
 
-<a id="org535f865"></a>
+<a id="orgcd4f0b2"></a>
 
 ## Переводчики
 
@@ -69,12 +63,12 @@
 -   <https://translate.google.com/>
 
 
-<a id="org9e6688f"></a>
+<a id="org4d91984"></a>
 
 ## Магазины
 
 
-<a id="org0d470aa"></a>
+<a id="orgfe6bc50"></a>
 
 ### Без поддержки русского языка
 
@@ -84,14 +78,14 @@
 -   <https://www.newegg.com/>
 
 
-<a id="org7c16441"></a>
+<a id="orgf500b82"></a>
 
 ### С частичной поддержкой русского языка
 
 <https://ru.aliexpress.com/>
 
 
-<a id="orge6e3e9f"></a>
+<a id="org0ebda91"></a>
 
 ### С поддержкой русского языка
 
@@ -99,7 +93,7 @@
 -   <https://www.asos.com/ru/men/>
 
 
-<a id="orgc5d2603"></a>
+<a id="org9b3e7e8"></a>
 
 ## Энциклопедии
 
@@ -115,93 +109,61 @@
 англоязычная энциклопедия.
 
 
-<a id="org6aa16f0"></a>
+<a id="org98e653c"></a>
 
 ## Code.org
 
 Code.org &mdash; некоммерческая организация, занимающаяся расширением доступа к информатике в школе<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>. На их сайте доступно большое количество курсов, связанных с ИКТ на многих языках мира.
 
-В контексте наших занятий рекомендуется проходить курсы на английском языке. Это способствует развитию, с одной стороны, алгоритмического мышления, необходимого для понимания сущности ИКТ, а с другой, навыков владения английским языком, необходимых для ориентирования в глобальном мире. При выполнении заданий курса предусмотрено использование словарей и переводчиков.
+В контексте наших занятий рекомендуется проходить курсы на английском языке. Они способствуют развитию, с одной стороны, алгоритмического мышления, необходимого для понимания сущности ИКТ, а с другой, навыков владения английским языком, необходимых для ориентирования в глобальном мире. При выполнении заданий курса предусмотрено использование словарей и переводчиков.
 
 
-<a id="org58e8c67"></a>
+<a id="org67d3d5b"></a>
 
-### Курс 2
+### 
 
-<https://studio.code.org/s/course2>
-
-
-<a id="org8199203"></a>
-
-### Курс 3
-
-<https://studio.code.org/s/course3>
+-   [Курс 2](https://studio.code.org/s/course2)
+-   [Курс 3](https://studio.code.org/s/course3)
+-   [Курс 4](https://studio.code.org/s/course4)
 
 
-<a id="org08ee200"></a>
+<a id="org8233037"></a>
 
-### Курс 4
+### Курсы 2019
 
-<https://studio.code.org/s/course4>
-
-
-<a id="org7951426"></a>
-
-### Курс A
-
-<https://studio.code.org/s/coursea-2019>
+-   [Курс A](https://studio.code.org/s/coursea-2019)
+-   [Курс B](https://studio.code.org/s/courseb-2019)
+-   [Курс C](https://studio.code.org/s/coursec-2019)
+-   [Курс D](https://studio.code.org/s/coursed-2019)
+-   [Курс E](https://studio.code.org/s/coursee-2019)
+-   [Курс F](https://studio.code.org/s/coursef-2019)
 
 
-<a id="org17f0f34"></a>
+<a id="org24c3263"></a>
 
-### Курс B
+### Hour of Code
 
-<https://studio.code.org/s/courseb-2019>
-
-
-<a id="org1d1a46f"></a>
-
-### Курс C
-
-<https://studio.code.org/s/coursec-2019>
+-   [Minecraft](https://code.org/minecraft)
+-   [Kodable](https://www.kodable.com/hour-of-code)
+-   [Star Wars](https://code.org/starwars)
+-   [Globaloria](http://code.globaloria.com/)
 
 
-<a id="org282bcf6"></a>
-
-### Курс D
-
-<https://studio.code.org/s/coursed-2019>
-
-
-<a id="orgfcbc79f"></a>
-
-### Курс E
-
-<https://studio.code.org/s/coursee-2019>
-
-
-<a id="orga947cd1"></a>
-
-### Курс F
-
-<https://studio.code.org/s/coursef-2019>
-
-
-<a id="org7cb6c23"></a>
+<a id="org2a46f52"></a>
 
 ### Grid Garden
 
 <http://cssgridgarden.com/>
 
 
-<a id="orgb1de242"></a>
+<a id="orgba0ab92"></a>
 
 ## Сервисы
 
 -   **<https://youglish.com/>:** YouGlish (YouTube + English). С помощью этого сервиса можно находить как произносятся те или иные слова английские на видео в YouTube.
 
 
-<a id="org42036a8"></a>
+<a id="orgfc1e502"></a>
 
 ## British Council
 
@@ -212,7 +174,7 @@ British Council переводится как Британский Совет
 -   **<https://learnenglishkids.britishcouncil.org/>:** LearnEnglish Kids. Материалы для изучения английского для детей.
 
 
-<a id="orga9ffa0d"></a>
+<a id="org1ed0109"></a>
 
 ### Computers and technology
 
@@ -243,7 +205,7 @@ British Council переводится как Британский Совет
     [webpage](https://learnenglishkids.britishcouncil.org/writing-practice/problem-page)
 
 
-<a id="orgec868d7"></a>
+<a id="org4872f08"></a>
 
 ## Сноски
 
