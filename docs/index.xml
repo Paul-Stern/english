@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Английский язык и информационно-коммуникационные технологии on ИКТ и английский язык</title>
-    <link>http://example.org/</link>
+    <link>https://paul-stern.github.io/english/</link>
     <description>Recent content in Английский язык и информационно-коммуникационные технологии on ИКТ и английский язык</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <lastBuildDate>Thu, 04 Jul 2019 09:48:09 +0300</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://paul-stern.github.io/english/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
