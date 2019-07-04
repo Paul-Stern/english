@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "ru-RU"
+title = "ИКТ и английский язык"
+theme = "custom"
+publishDir = "docs/"
+
+

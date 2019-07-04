@@ -1,0 +1,10 @@
+body {
+    font-family: 'Alegreya', serif;
+    font-size: 1.5em;
+    text-rendering: optimizeLegibility;
+    text-align: justify;
+    hyphens: auto;
+    width: 70%;
+    margin: auto;
+}
+

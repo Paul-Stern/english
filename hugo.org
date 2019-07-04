@@ -1,4 +1,5 @@
-#+HUGO_BASE_DIR: c:/Hugo/Sites/EIT
+# #+HUGO_BASE_DIR: c:/Hugo/Sites/EIT
+#+HUGO_BASE_DIR: .
 #+HUGO_SECTION: .
 #+EXPORT_FILE_NAME: _index.md
 #+HUGO_AUTO_SET_LASTMOD: t

@@ -1,44 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>technologies on Английский язык и информационные технологии</title>
-    <link>https://paul-stern.github.io/english/tags/technologies/</link>
-    <description>Recent content in technologies on Английский язык и информационные технологии</description>
+    <title>technologies on ИКТ и английский язык</title>
+    <link>http://example.org/tags/technologies/</link>
+    <description>Recent content in technologies on ИКТ и английский язык</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>Ru-ru</language>
-    <lastBuildDate>Thu, 13 Jun 2019 17:26:28 +0300</lastBuildDate>
+    <language>ru-RU</language>
+    <lastBuildDate>Thu, 04 Jul 2019 09:48:09 +0300</lastBuildDate>
     
-	<atom:link href="https://paul-stern.github.io/english/tags/technologies/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/tags/technologies/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Английский язык и информационно-коммуникационные технологии</title>
-      <link>https://paul-stern.github.io/english/</link>
-      <pubDate>Thu, 13 Jun 2019 17:26:28 +0300</pubDate>
-      
-      <guid>https://paul-stern.github.io/english/</guid>
-      <description>Добро пожаловать на страницу со сборником ресурсов по теме &amp;ldquo;Английский язык и информационно-коммуникационные технологии (ИКТ)&amp;rdquo; Цель этой страницы &amp;mdash; объединить наиболее важные и доступные сайты. Далее несколько слов о том, почему эта тема может быть интересна.
-Английский язык играет важную роль в современном мире.&amp;nbsp;1 Чаще всего он используется в качестве языка международного общения. Он позволяет людям из разных концов мира понимать друг друга. Таким образом английский язык может способствовать решению задачи всеобщего взаимопониманиялюдей в глобальном мире.</description>
-    </item>
     
     <item>
       <title>Английский язык и информационно-коммуникационные технологии</title>
-      <link>https://paul-stern.github.io/english/posts/</link>
-      <pubDate>Thu, 13 Jun 2019 17:26:17 +0300</pubDate>
+      <link>http://example.org/</link>
+      <pubDate>Thu, 04 Jul 2019 09:48:09 +0300</pubDate>
       
-      <guid>https://paul-stern.github.io/english/posts/</guid>
+      <guid>http://example.org/</guid>
       <description>Добро пожаловать на страницу со сборником ресурсов по теме &amp;ldquo;Английский язык и информационно-коммуникационные технологии (ИКТ)&amp;rdquo; Цель этой страницы &amp;mdash; объединить наиболее важные и доступные сайты. Далее несколько слов о том, почему эта тема может быть интересна.
-Английский язык играет важную роль в современном мире.&amp;nbsp;1 Чаще всего ониспользуется в качестве языка международного общения. Онпозволяет людям из разных концов мира понимать друг друга. Таким образоманглийский язык может способствовать решению задачи всеобщего взаимопониманиялюдей в глобальном мире.</description>
-    </item>
-    
-    <item>
-      <title>Английский язык и информационно-коммуникационные технологии</title>
-      <link>https://paul-stern.github.io/english/posts/hugo/</link>
-      <pubDate>Thu, 13 Jun 2019 15:56:55 +0300</pubDate>
-      
-      <guid>https://paul-stern.github.io/english/posts/hugo/</guid>
-      <description>Добро пожаловать на страницу со сборником ресурсов по теме &amp;ldquo;Английский язык и информационно-коммуникационные технологии (ИКТ)&amp;rdquo; Цель этой страницы &amp;mdash; объединить наиболее важные и доступные сайты. Далее несколько слов о том, почему эта тема может быть интересна.
-Английский язык играет важную роль в современном мире.&amp;nbsp;1 Чаще всего ониспользуется в качестве языка международного общения. Онпозволяет людям из разных концов мира понимать друг друга. Таким образоманглийский язык может способствовать решению задачи всеобщего взаимопониманиялюдей в глобальном мире.</description>
+Английский язык играет важную роль в современном мире.&amp;nbsp;1 Чаще всего он используется в качестве языка международного общения. Он позволяет людям из разных концов мира понимать друг друга. Таким образом английский язык может способствовать решению задачи всеобщего взаимопонимания людей в глобальном мире.</description>
     </item>
     
   </channel>

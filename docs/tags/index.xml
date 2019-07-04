@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Английский язык и информационные технологии</title>
-    <link>https://paul-stern.github.io/english/tags/</link>
-    <description>Recent content in Tags on Английский язык и информационные технологии</description>
+    <title>Tags on ИКТ и английский язык</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on ИКТ и английский язык</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>Ru-ru</language>
-    <lastBuildDate>Thu, 13 Jun 2019 17:26:28 +0300</lastBuildDate>
+    <language>ru-RU</language>
+    <lastBuildDate>Thu, 04 Jul 2019 09:48:09 +0300</lastBuildDate>
     
-	<atom:link href="https://paul-stern.github.io/english/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>IT</title>
-      <link>https://paul-stern.github.io/english/tags/it/</link>
-      <pubDate>Thu, 13 Jun 2019 17:26:28 +0300</pubDate>
+      <link>http://example.org/tags/it/</link>
+      <pubDate>Thu, 04 Jul 2019 09:48:09 +0300</pubDate>
       
-      <guid>https://paul-stern.github.io/english/tags/it/</guid>
+      <guid>http://example.org/tags/it/</guid>
       <description></description>
     </item>
     
     <item>
       <title>english</title>
-      <link>https://paul-stern.github.io/english/tags/english/</link>
-      <pubDate>Thu, 13 Jun 2019 17:26:28 +0300</pubDate>
+      <link>http://example.org/tags/english/</link>
+      <pubDate>Thu, 04 Jul 2019 09:48:09 +0300</pubDate>
       
-      <guid>https://paul-stern.github.io/english/tags/english/</guid>
+      <guid>http://example.org/tags/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>technologies</title>
-      <link>https://paul-stern.github.io/english/tags/technologies/</link>
-      <pubDate>Thu, 13 Jun 2019 17:26:28 +0300</pubDate>
+      <link>http://example.org/tags/technologies/</link>
+      <pubDate>Thu, 04 Jul 2019 09:48:09 +0300</pubDate>
       
-      <guid>https://paul-stern.github.io/english/tags/technologies/</guid>
+      <guid>http://example.org/tags/technologies/</guid>
       <description></description>
     </item>
     

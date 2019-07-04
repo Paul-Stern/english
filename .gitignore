@@ -2,6 +2,7 @@
 *~
 *.html
 *.eml
+
 # *.org
 english.org
 shopping*
@@ -9,9 +10,7 @@ flymd.md
 *#*
 
 # *#*#
-01_files/
+my/
 
-ctoons/*.mkv
-ctoons/*.mp4
-
-flashcards/*.pdf
+themes/ezhil
+themes/ga-hugo-theme
