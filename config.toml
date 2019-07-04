@@ -1,4 +1,4 @@
-baseURL = "http://paul-stern.github.io/english/"
+baseURL = "https://paul-stern.github.io/english/"
 languageCode = "ru-RU"
 title = "ИКТ и английский язык"
 theme = "custom"
