@@ -4,8 +4,8 @@
 #+EXPORT_FILE_NAME: _index.md
 #+HUGO_AUTO_SET_LASTMOD: t
 
-#+TITLE: Английский язык и 
-#+TITLE: информационно-коммуникационные технологии
+#+TITLE: ИКТ и
+#+TITLE: английский язык
 
 #+HUGO_TAGS: english IT technologies
 
