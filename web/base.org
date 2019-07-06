@@ -1,0 +1,8 @@
+#+TITLE: Браузер и поисковые система
+
+[[./shots/fi]]
+
+** links
+- https://github.com/FirefoxUX/product-identity/blob/master/images/firefox/firefox/firefox-logo.svg
+- https://en.wikipedia.org/wiki/File:Firefox_Logo,_2017.svg
+- https://creativecommons.org/licenses/by/3.0/deed.en
