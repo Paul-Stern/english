@@ -1,6 +1,4 @@
-#+TITLE: Браузер и поисковые система
-
-[[./shots/fi]]
+#+TITLE: Браузер и поисковые системы
 
 * text
 Какие браузеры Вам известны? 
@@ -9,17 +7,25 @@
 Но не забывайте, что существует также Firefox
 [[https://design.firefox.com/product-identity/firefox/firefox/firefox-logo.svg]] 
 
+** Поисковые системы
+[[https://upload.wikimedia.org/wikipedia/en/8/88/DuckDuckGo_logo.svg]]
 
+https://upload.wikimedia.org/wikipedia/commons/3/37/Yandex_logo_ru.svg
 
+https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg
 * COMMENT links
-- firefox
-  - https://github.com/FirefoxUX/product-identity/blob/master/images/firefox/firefox/firefox-logo.svg
-  - https://en.wikipedia.org/wiki/File:Firefox_Logo,_2017.svg
-  - https://design.firefox.com/photon/visuals/product-identity-assets.html
-  - https://creativecommons.org/licenses/by/3.0/deed.en
-- chrome
-  - [[https://en.wikipedia.org/wiki/File:Google_Chrome_icon_(September_2014).svg]]
-
+- Браузеры
+  - firefox
+    - https://github.com/FirefoxUX/product-identity/blob/master/images/firefox/firefox/firefox-logo.svg
+    - https://en.wikipedia.org/wiki/File:Firefox_Logo,_2017.svg
+    - https://design.firefox.com/photon/visuals/product-identity-assets.html
+    - https://creativecommons.org/licenses/by/3.0/deed.en
+  - chrome
+    - [[https://en.wikipedia.org/wiki/File:Google_Chrome_icon_(September_2014).svg]]
+- Поисковики
+  - https://commons.wikimedia.org/wiki/File:Yandex_logo_ru.svg?uselang=ru
+  - https://en.wikipedia.org/wiki/File:DuckDuckGo_logo.svg
+  - https://en.wikipedia.org/wiki/File:Google_2015_logo.svg
 * COMMENT How to do it
 - just hugo + README.md
 - org-reveal
