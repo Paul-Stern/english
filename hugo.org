@@ -9,4 +9,6 @@
 
 #+HUGO_TAGS: english IT technologies
 
+:computer: :gb:
+
 #+INCLUDE: "base.org"

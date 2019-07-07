@@ -2,7 +2,33 @@
 
 [[./shots/fi]]
 
-** links
-- https://github.com/FirefoxUX/product-identity/blob/master/images/firefox/firefox/firefox-logo.svg
-- https://en.wikipedia.org/wiki/File:Firefox_Logo,_2017.svg
-- https://creativecommons.org/licenses/by/3.0/deed.en
+* text
+Какие браузеры Вам известны? 
+Возможно, наиболее популярен сейчас Chrome:
+[[https://upload.wikimedia.org/wikipedia/commons/a/a5/Google_Chrome_icon_%28September_2014%29.svg]]
+Но не забывайте, что существует также Firefox
+[[https://design.firefox.com/product-identity/firefox/firefox/firefox-logo.svg]] 
+
+
+
+* COMMENT links
+- firefox
+  - https://github.com/FirefoxUX/product-identity/blob/master/images/firefox/firefox/firefox-logo.svg
+  - https://en.wikipedia.org/wiki/File:Firefox_Logo,_2017.svg
+  - https://design.firefox.com/photon/visuals/product-identity-assets.html
+  - https://creativecommons.org/licenses/by/3.0/deed.en
+- chrome
+  - [[https://en.wikipedia.org/wiki/File:Google_Chrome_icon_(September_2014).svg]]
+
+* COMMENT How to do it
+- just hugo + README.md
+- org-reveal
+  - https://github.com/yjwen/org-reveal/
+- reveal-hugo
+  - https://themes.gohugo.io/reveal-hugo/
+    - https://github.com/dzello/reveal-hugo
+    - https://forestry.io/blog/harness-the-power-of-static-to-create-presentations/
+      - [[https://code.tutsplus.com/tutorials/make-creating-websites-fun-again-with-hugo-the-static-website-generator-written-in-go--cms-27319][Static WS generators]]
+    - use by section
+      - https://reveal-hugo.dzello.com/section-example/#/
+

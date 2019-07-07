@@ -1,7 +1,19 @@
 baseURL = "https://paul-stern.github.io/english/"
 languageCode = "ru-RU"
+defaultContentLanguage = "ru-RU"
+enableEmoji = "true"
 title = "ИКТ и английский язык"
 theme = "custom"
 publishDir = "docs/"
 
+# before use create section slideshows (sshows)
+# and submodule reveal-hugo theme
 
+# I hope next line will apply a theme only for the section
+# [Sections.sshows]
+# theme = "reveal-hugo"
+
+# [outputFormats.Reveal]
+# baseName = "index"
+# mediaType = "text/html"
+# isHTML = true
