@@ -7,6 +7,20 @@
 Но не забывайте, что существует также Firefox
 [[https://design.firefox.com/product-identity/firefox/firefox/firefox-logo.svg]] 
 
+* Chrome
+[[file:./shots/02.png]]
+[[file:./shots/03.png]]
+[[file:./shots/04.png]]
+[[file:./shots/05.png]]
+[[file:./shots/06.png]]
+[[file:./shots/07.png]]
+[[file:./shots/08.png]]
+[[file:./shots/09.png]]
+[[file:./shots/10.png]]
+[[file:./shots/11.png]]
+[[file:./shots/12.png]]
+[[file:./shots/13.png]]
+
 ** Поисковые системы
 [[https://upload.wikimedia.org/wikipedia/en/8/88/DuckDuckGo_logo.svg]]
 

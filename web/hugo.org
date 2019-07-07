@@ -10,3 +10,4 @@
 
 #+INCLUDE: "base.org"
 
+# Have to fix somehow image paths. They should start with "/english/"
