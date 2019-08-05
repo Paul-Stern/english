@@ -1,24 +1,24 @@
-- [ИКТ и английский язык](#orgf12ab5a)
-  - [Словари](#org41c1ce3)
-  - [Переводчики](#org439c809)
-  - [Магазины](#org77f217e)
-    - [Без поддержки русского языка](#org7e66d95)
-    - [С частичной поддержкой русского языка](#org6347382)
-    - [С поддержкой русского языка](#org8f70249)
-  - [Энциклопедии](#org5ad05ff)
-  - [Code.org](#org84955d3)
-    - [](#org4ee145c)
-    - [Курсы 2019](#org1c48795)
-    - [Hour of Code](#org90c9915)
-    - [Grid Garden](#org1859601)
-  - [Сервисы](#org767f4ca)
-  - [British Council](#orgea6a95d)
-    - [Computers and technology](#org9a9c91d)
-  - [Сноски](#org42a5dc2)
+- [ИКТ и английский язык](#org4d5186e)
+  - [Словари](#org2c31ff0)
+  - [Переводчики](#org27c378b)
+  - [Магазины](#org548a0df)
+    - [Без поддержки русского языка](#org62fe740)
+    - [С частичной поддержкой русского языка](#org13accc6)
+    - [С поддержкой русского языка](#org86c0c85)
+  - [Энциклопедии](#orga10d1a9)
+  - [Code.org](#org8ec3c15)
+    - [](#orga3668e4)
+    - [Курсы 2019](#org223114d)
+    - [Hour of Code](#orga5c518e)
+    - [Grid Garden](#orgcb9de4b)
+  - [Сервисы](#org56a9d64)
+  - [British Council](#org5aad1d7)
+    - [Computers and technology](#org5c2997f)
+  - [Сноски](#org6aac9c9)
 
 
 
-<a id="orgf12ab5a"></a>
+<a id="org4d5186e"></a>
 
 # ИКТ и английский язык
 
@@ -33,19 +33,26 @@
 Вышеприведенные факты, позволяют сделать вывод о том, что данная тема может быть не только интересна, но и полезна для широкого круга людей.
 
 
-<a id="org41c1ce3"></a>
+<a id="org2c31ff0"></a>
 
 ## Словари
 
-Здесь небольшая подборка словарей. Здесь перечислены толковые и двуязычные, британские и американские словари
+Небольшая подборка словарей. В ней перечислены толковые и двуязычные, британские и американские словари
 
 -   **<https://www.lexico.com/en>. Старая [ссылка](https://en.oxforddictionaries.com/).:** Оксфордский (британский) толковый словарь общего назначения.
 -   **<https://www.oxfordlearnersdictionaries.com/>:** Оксфордский (британский) толковый словарь. Предназначен для людей изучающих английский язык
 -   **<https://www.merriam-webster.com/>:** Американский толковый словарь.
 -   **<https://www.lingvolive.com/ru-ru>:** Веб-словарь (двуязычный), включает в себя перевод слов с английского на русский.
+-   **Cambridge Dictionary:** Кэмбриджские словари
+    -   **<https://dictionary.cambridge.org/dictionary/learner-english/>:** Словарь ученика
+    -   **<https://dictionary.cambridge.org/dictionary/essential-british-english/>:** Британский словарь основной лексики
+    -   **<https://dictionary.cambridge.org/dictionary/english-russian/>:** Англо-русский словарь
+    -   **<https://dictionary.cambridge.org/dictionary/essential-american-english/>:** Американский словарь основной лексики
+    -   **<https://dictionary.cambridge.org/dictionary/english/>:** Толковый словарь
+-   **<https://dictionary.cambridge.org/grammar/british-grammar/>:** Cambridge Grammar
 
 
-<a id="org439c809"></a>
+<a id="org27c378b"></a>
 
 ## Переводчики
 
@@ -55,12 +62,12 @@
 -   <https://translate.google.com/>
 
 
-<a id="org77f217e"></a>
+<a id="org548a0df"></a>
 
 ## Магазины
 
 
-<a id="org7e66d95"></a>
+<a id="org62fe740"></a>
 
 ### Без поддержки русского языка
 
@@ -70,14 +77,14 @@
 -   <https://www.newegg.com/>
 
 
-<a id="org6347382"></a>
+<a id="org13accc6"></a>
 
 ### С частичной поддержкой русского языка
 
 <https://ru.aliexpress.com/>
 
 
-<a id="org8f70249"></a>
+<a id="org86c0c85"></a>
 
 ### С поддержкой русского языка
 
@@ -85,27 +92,29 @@
 -   <https://www.asos.com/ru/men/>
 
 
-<a id="org5ad05ff"></a>
+<a id="orga10d1a9"></a>
 
 ## Энциклопедии
 
 Энциклопедии часто помогают нам в учебе. Википедия знакома всем. Также указаны ссылки на другие, традиционные энциклопедии, которые вы тоже можете использовать.
 
--   <https://www.wikipedia.org/>
+-   **<https://www.wikipedia.org/>:** Википедия.
 -   **<https://bigenc.ru/>:** Большая российская энциклопедия (БРЭ). Наследница Большой советской. Самая авторитетная энциклопедия страны.
 -   **<https://www.britannica.com/>:** Энциклопедия Британника. Самая известная англоязычная энциклопедия.
 
 
-<a id="org84955d3"></a>
+<a id="org8ec3c15"></a>
 
 ## Code.org
 
-Code.org &mdash; некоммерческая организация, занимающаяся расширением доступа к информатике в школе<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>. На их сайте доступно большое количество курсов, связанных с ИКТ на многих языках мира.
+> Code.org &mdash; некоммерческая организация, занимающаяся расширением доступа к информатике в школе<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>.
+
+На их сайте доступно большое количество курсов, связанных с ИКТ на многих языках мира.
 
 В контексте наших занятий рекомендуется проходить курсы на английском языке. Они способствуют развитию, с одной стороны, алгоритмического мышления, необходимого для понимания сущности ИКТ, а с другой, навыков владения английским языком, необходимых для ориентирования в глобальном мире. При выполнении заданий курса предусмотрено использование словарей и переводчиков.
 
 
-<a id="org4ee145c"></a>
+<a id="orga3668e4"></a>
 
 ### 
 
@@ -114,7 +123,7 @@ Code.org &mdash; некоммерческая организация, заним
 -   [Курс 4](https://studio.code.org/s/course4)
 
 
-<a id="org1c48795"></a>
+<a id="org223114d"></a>
 
 ### Курсы 2019
 
@@ -126,7 +135,7 @@ Code.org &mdash; некоммерческая организация, заним
 -   [Курс F](https://studio.code.org/s/coursef-2019)
 
 
-<a id="org90c9915"></a>
+<a id="orga5c518e"></a>
 
 ### Hour of Code
 
@@ -136,21 +145,21 @@ Code.org &mdash; некоммерческая организация, заним
 -   [Globaloria](http://code.globaloria.com/)
 
 
-<a id="org1859601"></a>
+<a id="orgcb9de4b"></a>
 
 ### Grid Garden
 
 <http://cssgridgarden.com/>
 
 
-<a id="org767f4ca"></a>
+<a id="org56a9d64"></a>
 
 ## Сервисы
 
 -   **<https://youglish.com/>:** YouGlish (YouTube + English). С помощью этого сервиса можно находить как произносятся те или иные слова английские на видео в YouTube.
 
 
-<a id="orgea6a95d"></a>
+<a id="org5aad1d7"></a>
 
 ## British Council
 
@@ -161,7 +170,7 @@ British Council переводится как Британский Совет
 -   **<https://learnenglishkids.britishcouncil.org/>:** LearnEnglish Kids. Материалы для изучения английского для детей.
 
 
-<a id="org9a9c91d"></a>
+<a id="org5c2997f"></a>
 
 ### Computers and technology
 
@@ -175,7 +184,7 @@ British Council переводится как Британский Совет
 -   [Problem page (game-test)](https://learnenglishkids.britishcouncil.org/writing-practice/problem-page) [webpage](https://learnenglishkids.britishcouncil.org/writing-practice/problem-page)
 
 
-<a id="org42a5dc2"></a>
+<a id="org6aac9c9"></a>
 
 ## Сноски
 

@@ -16,11 +16,18 @@
 # международного общения. А следователь
 
 * Словари
-Здесь небольшая подборка словарей. Здесь перечислены толковые и двуязычные,  британские и американские словари
+Небольшая подборка словарей. В ней перечислены толковые и двуязычные,  британские и американские словари
 - https://www.lexico.com/en. Старая [[https://en.oxforddictionaries.com/][ссылка]]. :: Оксфордский (британский) толковый  словарь общего назначения.
 - https://www.oxfordlearnersdictionaries.com/ :: Оксфордский (британский)  толковый словарь. Предназначен для людей изучающих английский язык 
 - [[https://www.merriam-webster.com/]] :: Американский толковый словарь. 
 - [[https://www.lingvolive.com/ru-ru]] :: Веб-словарь (двуязычный), включает в себя  перевод слов с английского на русский.
+- Cambridge Dictionary :: Кэмбриджские словари
+  - https://dictionary.cambridge.org/dictionary/learner-english/ :: Словарь ученика
+  - https://dictionary.cambridge.org/dictionary/essential-british-english/ :: Британский словарь основной лексики
+  - https://dictionary.cambridge.org/dictionary/english-russian/ :: Англо-русский словарь
+  - https://dictionary.cambridge.org/dictionary/essential-american-english/ :: Американский словарь основной лексики
+  - https://dictionary.cambridge.org/dictionary/english/ :: Толковый словарь
+- https://dictionary.cambridge.org/grammar/british-grammar/ :: Cambridge Grammar
 * Переводчики
 Здесь приведены примеры приложений-переводчиков. Позволяют переводить не  отдельные слова, а предложения и тексты. Попробуйте и тот, и другой (между ними есть разница), и выбирите, какой вам больше нравится.
 - https://translate.yandex.com/
@@ -44,7 +51,11 @@ https://ru.aliexpress.com/
 * Code.org
 # Course catalogue https://studio.code.org/courses 
 # есть разница между страничками на русском и английском
-Code.org \mdash некоммерческая организация, занимающаяся расширением доступа к  информатике в школе[fn:2]. На их сайте доступно большое количество курсов, связанных с ИКТ на  многих языках мира. 
+#+begin_quote
+Code.org \mdash некоммерческая организация, занимающаяся расширением доступа к  информатике в школе[fn:2]. 
+#+end_quote
+
+На их сайте доступно большое количество курсов, связанных с ИКТ на  многих языках мира. 
 
 В контексте наших занятий рекомендуется проходить курсы на английском языке. Они способствуют развитию, с одной стороны, алгоритмического мышления, необходимого для понимания сущности ИКТ, а с другой, навыков владения английским языком, необходимых для ориентирования в глобальном мире. При выполнении заданий курса предусмотрено использование словарей и  переводчиков.
 
@@ -130,8 +141,6 @@ https://learnenglishkids.britishcouncil.org/category/topics/computers-and-techno
 [[https://learnenglishkids.britishcouncil.org/writing-practice/problem-page][webpage]]
 * Сноски
 
-[fn:1] В 2019 г. в мире насчитывается по [[https://bigenc.ru/linguistics/text/4924604][одной]] оценке от 2,5 до 5 тыс, по
-[[https://www.ethnologue.com/statistics][другой]] \mdash более 7 тыс. языков. Тот же [[https://www.ethnologue.com/language/eng][источник]] утверждает, что английский язык
-является самым распространенным в мире.
+[fn:1] В 2019 г. в мире насчитывается по [[https://bigenc.ru/linguistics/text/4924604][одной]] оценке от 2,5 до 5 тыс, по [[https://www.ethnologue.com/statistics][другой]] \mdash более 7 тыс. языков. Тот же [[https://www.ethnologue.com/language/eng][источник]] утверждает, что английский язык является самым распространенным в мире.
 [fn:2] https://code.org/about
 [fn:3] https://www.britishcouncil.ru/
